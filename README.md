@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-This repository contains the report for the database project titled "Projet Collections d'Objets - Partie 2". The project focuses on the design and implementation of a database system for managing collections of cultural objects. 
+This repository contains the report for the database project titled "Projet Collections d'Objets - Partie 2". The project focuses on the design and implementation of a database system for managing collections of cultural objects.  The code was developed using SQL Developer.
 
 ## Contents:
 
